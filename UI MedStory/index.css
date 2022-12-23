@@ -1,0 +1,64 @@
+#title {
+  background-color: black;
+  padding-left: 15%;
+  padding-right: 10%;
+  padding-bottom: 16%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0px 20px;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.fa1 {
+  font-size: 1.4rem;
+}
+
+.h1-bold {
+  font-size: 4rem;
+  line-height: 1.2;
+  color: white;
+  font-weight: 900;
+  margin-top: 2rem;
+}
+
+.p1 {
+  color: whitesmoke;
+  font-size: 1.2rem;
+}
+
+/* .boss{
+  
+} */
+
+.first-button {
+  margin: 5% 3% 5% 0;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.fa2 {
+  font-size: 120%;
+  padding-left: 10px;
+}
+
+/* footer */
